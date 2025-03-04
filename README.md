@@ -16,5 +16,3 @@ console.log("working");
 ## Feature two
 ...fill and assign
 - [] task1
-
-![alt text](./images/full.png)
