@@ -15,4 +15,8 @@ console.log("working");
 
 ## Feature two
 ...fill and assign
+<<<<<<< HEAD
 - [] task1
+=======
+- [] task1
+>>>>>>> 3e01118d704d1d40009a3b909827204618b803e5
