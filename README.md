@@ -1,5 +1,6 @@
 # Lab 2 of the Version Control Course
 A multi branch repo
+
 ---
 
 # Collaborators Section
