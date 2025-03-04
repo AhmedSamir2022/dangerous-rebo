@@ -1,9 +1,8 @@
 # Lab 2 of the Version Control Course
 A multi branch repo
+---
 
 # Collaborators Section
-
----
 
 ## Feature one
 #Amr
@@ -13,8 +12,6 @@ A multi branch repo
 ```javascript
 console.log("working");
 ```
-
----
 
 ## Feature two
 #Hesham
