@@ -6,7 +6,6 @@ A multi branch repo
 # Collaborators Section
 
 ## Feature one
-#Amr
 - back end feature 1 logic
   - working
   - cool
@@ -15,5 +14,5 @@ console.log("working");
 ```
 
 ## Feature two
-#Hesham
 ...fill and assign
+- [] task1
